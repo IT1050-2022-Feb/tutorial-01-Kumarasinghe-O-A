@@ -11,6 +11,7 @@ int main() {
   scanf("%f", &mark1);
   printf("Enter the second mark : ");
   scanf("%f", &mark2);
+  
 
   printf("The first mark entered is : %.2f\n", mark1);
   printf("The second mark entered is : %.2f\n", mark2);
